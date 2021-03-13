@@ -1,2 +1,2 @@
 # CountryCityTownDatabase-MSSQL-
-Ülke, şehir, kasaba veritabanı . MS Sql 
+MS SQL Server – Ülke, Şehir, İlçe Veritabanı
